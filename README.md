@@ -38,7 +38,16 @@ Used Fast2sms API for OTP login
 
 Pyscript is used to display data analysis reports to the restaurant owner
 
+Azure data studio is used to create the database schema and monitor the db.
+
 Sql file of the database has been added in the repo, to better udnerstand the data flow
+
+## Future Scope
+- Intergration online paymnets and billing management
+- Making the menu more customizable for the owner
+- integrating customer feedback
+- adding more attributes to menu items like ingredients and categories
+- using oreder data to train ML model like: Demand Forecasting, Recommendation system, Anomaly detection etc
 
 ### NOTE: the api key for fast2sms api, and the SSL certificate file are not there in this repository but the database credentials are present in this code. The project is deployed through Bitbucket.
 

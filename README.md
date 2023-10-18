@@ -30,6 +30,8 @@ The app service has usage limits, and currently the project is live and working,
 
 ## Basic Working:
 
+The web app is deployed through Bitbucket on Azure services and MySQL flexible database is accessed in PHP and Python as required
+
 Uses CRUD operations to manage menu and orders
 
 Used Fast2sms API for OTP login
@@ -43,6 +45,11 @@ Sql file of the database has been added in the repo, to better udnerstand the da
 
 ## Screenshots:
 
+![image](https://github.com/NeuroNut/DINE-SCAN-FRT/assets/118915506/f32f5a92-a8c0-4f78-80a7-aaa7bff2eaef)
+![image](https://github.com/NeuroNut/DINE-SCAN-FRT/assets/118915506/3f71e216-2e0e-4980-96c3-067da43ab9e8)
+![image](https://github.com/NeuroNut/DINE-SCAN-FRT/assets/118915506/2e9061da-ff47-49cf-96cf-2f67db2073f5)
+![image](https://github.com/NeuroNut/DINE-SCAN-FRT/assets/118915506/8f624a80-028f-4c49-b7ce-9ce7dd5ccb0c)
+![image](https://github.com/NeuroNut/DINE-SCAN-FRT/assets/118915506/465e0ace-0ee5-4636-ac9d-2727eee1b37d)
 
 
 ## Collaborators:
@@ -51,7 +58,7 @@ Aditya Agarwal (NeuroNut)
 
 Aman Ruhela (amanruhela1)
 
-Himanshu Singh (himanshusingh-07)
+Himanshu Singh (himanshu-singh07)
 
 Mohammad Suhail(Suhail-nagore)
 
